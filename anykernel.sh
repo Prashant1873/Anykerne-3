@@ -4,8 +4,8 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Atom X Kernel
-dev.string=@OGIndian
+kernel.string=CHEEMS
+dev.string=@Prashant
 do.devicecheck=1
 do.modules=0
 do.systemless=1
