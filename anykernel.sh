@@ -4,7 +4,7 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=CHEEMS
+kernel.string=byPrashant
 dev.string=@Prashant
 do.devicecheck=1
 do.modules=0
