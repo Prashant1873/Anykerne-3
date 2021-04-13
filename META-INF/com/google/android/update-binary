@@ -486,4 +486,4 @@ if [ "$(file_getprop anykernel.sh do.cleanup)" == 1 ]; then
   cleanup;
 fi;
 
-ui_print " " "Thank you for installing  kernel" " ";
+ui_print " " "Thank you for installing $KERNEL_STRING kernel" " ";
