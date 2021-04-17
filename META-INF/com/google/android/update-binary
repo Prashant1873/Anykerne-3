@@ -457,7 +457,7 @@ if [ -f version ]; then
 fi;
 
 KERNEL_STRING="$(file_getprop anykernel.sh kernel.string)";
-DEV_STRING="$(file_getprop anykernel.sh kernel.string)";
+DEV_STRING="$(file_getprop anykernel.sh dev.string)";
 ui_print "Kernel: $KERNEL_STRING";
 ui_print "Dev: $DEV_STRING";
 
