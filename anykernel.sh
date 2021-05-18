@@ -5,6 +5,7 @@
 # begin properties
 properties() { '
 kernel.string=Atom-X-Kernel
+dev.string=OGIndian
 do.devicecheck=1
 do.modules=0
 do.systemless=1
