@@ -31,11 +31,7 @@ no_block_display=1;
 set_perm_recursive 0 0 755 644 $ramdisk/*;
 set_perm_recursive 0 0 750 750 $ramdisk/init* $ramdisk/sbin;
 
-## Begin AnyKernel install
+## AnyKernel boot install
 dump_boot;
-
-# begin ramdisk changes
-# end ramdisk changes
-
 write_boot;
-## End AnyKernel install
+## end boot install
