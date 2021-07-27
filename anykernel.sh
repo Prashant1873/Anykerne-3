@@ -4,14 +4,14 @@
 ## AnyKernel setup
 # begin properties
 properties() { '
-kernel.string=Atom-X-Kernel
-dev.string=OGIndian
+kernel.string=Preserver-Kernel
+dev.string=PrashantShukla
 do.devicecheck=1
 do.modules=0
 do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
-device.name1=demo1
+device.name1=jasmine_sprout
 supported.versions=9 - 12
 supported.patchlevels=
 '; } # end properties
