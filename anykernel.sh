@@ -12,6 +12,7 @@ do.systemless=1
 do.cleanup=1
 do.cleanuponabort=0
 device.name1=jasmine_sprout
+device.name2=wayne
 supported.versions=9 - 12
 supported.patchlevels=
 '; } # end properties
